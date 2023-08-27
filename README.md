@@ -9,7 +9,7 @@
 
 ## 常用算子
 
-### [矩阵乘法](https://github.com/WuZhongQing/CUDA/blob/main/matrtix_times.cu)
+### [矩阵乘法](https://github.com/WuZhongQing/CUDA/tree/main/%E7%9F%A9%E9%98%B5%E4%B9%98%E6%B3%95%E5%AE%9E%E9%AA%8C)
 
 ### CNN
 
