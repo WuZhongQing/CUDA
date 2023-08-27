@@ -18,6 +18,14 @@
 
 
 ### CNN
+1.CPU版本的CNN操作
+卷积的尺寸计算关系为： \
+$$![](https://latex.codecogs.com/svg.image?&space;Output=\frac{(Input-Kernal_size&plus;2*Pad)}{Stride}&plus;1)$$
+
+2.GPU版本的CNN操作
+
+3.CPU与GPU版本的操作时间对比
+
 
 ### NMS
 
